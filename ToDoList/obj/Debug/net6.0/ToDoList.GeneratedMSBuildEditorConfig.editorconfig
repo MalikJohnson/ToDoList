@@ -39,6 +39,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/jaguar/source/repos/ToDoList/ToDoList/Views/ToDoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaguar/source/repos/ToDoList/ToDoList/Views/ToDoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaguar/source/repos/ToDoList/ToDoList/Views/ToDoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaguar/source/repos/ToDoList/ToDoList/Views/ToDoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaguar/source/repos/ToDoList/ToDoList/Views/ToDoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaguar/source/repos/ToDoList/ToDoList/Views/ToDoes/ShowSearchForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb2VzXFNob3dTZWFyY2hGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jaguar/source/repos/ToDoList/ToDoList/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
